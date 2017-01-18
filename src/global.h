@@ -1,0 +1,14 @@
+#ifndef GLOBAL_H
+#define GLOBAL_H
+
+#define TEMP_SENSOR_PIN 14
+
+#define DOOR1_OPEN_SENSOR_PIN 4
+#define DOOR1_CLOSED_SENSOR_PIN 5
+#define DOOR1_RELAY_PIN 15
+
+#define DOOR2_OPEN_SENSOR_PIN 12
+#define DOOR2_CLOSED_SENSOR_PIN 13
+#define DOOR2_RELAY_PIN 2
+
+#endif
